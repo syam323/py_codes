@@ -4,5 +4,7 @@ Enter "help" below or click "Help" above for more information.
 8
 >>> print(4-4)
 0
->>> print(4*4)
-16
+>>> 
+print(4*5)
+
+
